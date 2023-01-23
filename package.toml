@@ -1,0 +1,10 @@
+name = "sh"
+version = "0.1.0"
+collection = "Executor"
+platforms = ["Commander", "Worker"]
+
+collections = true
+tasks = true
+actions = true
+retry_times = 3
+retry_interval = 10
