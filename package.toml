@@ -1,8 +1,6 @@
 name = "sh"
-version = "0.1.2"
+version = "0.1.5"
 collection = "Executor"
 platforms = ["Client", "Server"]
 
 file_ext = "sh"
-retry_times = 3
-retry_interval = 10
